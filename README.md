@@ -21,3 +21,5 @@ A twisted pair of wires is then connected from the data lines on the controller 
 
 ![IMG_0989](https://github.com/Tekdoc15/ECE_484_Final_Project_ind/assets/11917221/b7f741a0-7545-4384-a4d4-f380ace3718b)
 ![IMG_1001](https://github.com/Tekdoc15/ECE_484_Final_Project_ind/assets/11917221/dc135d71-c6df-4d14-96c0-b4c2101f2ce3)
+
+I am not entirely sure why the top portion of the 6th digit has stopped always functioning, but I belive it may be related to me accidentally dropping the system this morning as I was loading everything for transport to campus.
